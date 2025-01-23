@@ -1,7 +1,7 @@
 /*
  * original program by Nicu FLORICA (niq_ro)
  * 0 - intial (momentary switch at D2__/__GND)
- * 0a - added on tine in serial hh:mm:ss
+ * 0a - added on time in serial hh:mm:ss
  */
 
 #define senzor 2
